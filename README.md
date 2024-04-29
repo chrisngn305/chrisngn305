@@ -38,9 +38,9 @@ These are some of the major technologies that I use or have worked on in the pas
 |--|
 
 
-## Let's Connect :handshake:
+## Let's Connect :handshake:as
 
-<a href="https://www.linkedin.com/in/chrisnguyen305/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a>|<a href="mailto:huunguyen.chris.work@gmail.com"><img src="https://raw.githubusercontent.com/github/explore/main/topics/gmail/gmail.png" width="40"></a>
+<a target="_blank" href="https://www.linkedin.com/in/chrisnguyen305/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a>|<a href="mailto:huunguyen.chris.work@gmail.com"><img src="https://raw.githubusercontent.com/github/explore/main/topics/gmail/gmail.png" width="40"></a>
 |--|--|
 
 
