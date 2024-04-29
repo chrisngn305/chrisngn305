@@ -16,12 +16,17 @@
 - PHP/Python/NodeJS
 
 ## Languages I know
+![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=php)
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
 ![CSHARP](https://img.shields.io/badge/CSharp-000000?style=flat&logo=c%20sharp)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![Vue](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
+
+## Frameworks I use
+![Laravel](https://img.shields.io/badge/-Laravel-000000?style=flat&logo=laravel)
+![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
+![Vue](https://img.shields.io/badge/-Vue-000000?style=flat&logo=vuedotjs)
 
 ## Databases I know
 ![MySQL](https://img.shields.io/badge/-MYSQL-000000?style=flat&logo=mysql)
