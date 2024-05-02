@@ -34,8 +34,7 @@ These are some of the major technologies that I use or have worked on in the pas
 
 **Databases**
 
-<img title="SQL" alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png">|
-|--|
+![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql)
 
 
 ## Let's Connect :handshake:as
